@@ -1,4 +1,4 @@
-## relational-EMR-DB-SQL
+# relational-EMR-DB-SQL
 
 Objective: create relational database in SQL to simulate electronic medical record system
 
