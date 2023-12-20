@@ -7,4 +7,4 @@ Context:
 - besides myself, group members included Emily Conner and Yicheng Zhang
 
 Relational Schema: 
-![EMR-relational-diagram.jpg]
+![test](EMR-relational-diagram.jpg)
